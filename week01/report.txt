@@ -1,0 +1,12 @@
+pada week01 ini saya melakukan clone git repository dengan terminal (PuTTY),
+
+berkenalan dengan syntax-syntax di Git seperti: "cd", "mkdir", "ls -al", "touch", "vi", "nano", "rm", operator ">" dan ">>", "mv", "pwd"
+
+syntax-syntax tersebut digunakan rata-rata dengan tujuan membuat folder, di suatu direktori, membuat file text, mengedit file text tersebut, memindahkan file ke direktori lain, dll
+
+sebenarnya hal-hal tersebut bisa dilakukan dengan menggunakan GUI github, namun karena kita programmer, maka sepertinya kita harus bisa melakukan hal tersebut dengan terminal
+
+di akhir task, saya disuruh menulis ekspetasi saya di file text yang saya buat dengan terminal ini, namun kali ini di edit di browser web githubnya
+
+-EOF-
+
