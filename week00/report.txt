@@ -1,0 +1,2 @@
+Pada week00 saya membuat akun github lalu belajar login ke badak@cs.ui.ac.id dengan PuTTY
+
