@@ -20,3 +20,4 @@ drwxr-xr-x  2 jeffry41 StafCS 4096 Feb 12 09:41 week09
 drwxr-xr-x  2 jeffry41 StafCS 4096 Feb 12 09:41 week10
 drwxr-xr-x  2 jeffry41 StafCS 4096 Feb 12 09:42 xtra
 /home/fasilkom/mahasiswa/j/jeffry41/os171/week01
+Today is 12 Feb 2017 at 10:29:05
