@@ -8,3 +8,4 @@ w00-170209-16-PS-Doing week00 task, make git account and login to badak@cs.ui.ac
 w00-170212-09-PS-Doing week01 task
 w00-170212-10-PS-Doing week01 task
 w00-170212-10-PS-Doing week01 task
+w01-170213-15-LR-read list of useful SSH commands, and study how to view user and chat via terminal at badak
