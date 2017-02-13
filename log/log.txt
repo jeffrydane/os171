@@ -9,3 +9,4 @@ w00-170212-09-PS-Doing week01 task
 w00-170212-10-PS-Doing week01 task
 w00-170212-10-PS-Doing week01 task
 w01-170213-15-LR-read list of useful SSH commands, and study how to view user and chat via terminal at badak
+w01-170213-16-LR-study element of a file that are displayed when you run the ls -alh command, somehow different from what was explained in class(?)
