@@ -13,6 +13,8 @@ w01-170213-16-LR-same as above, and study element of a file that are displayed w
 w01-170214-13-LR-Lecture in class, intro to scripting
 w01-170214-13-LR-Lecture in class, intro to scripting
 w01-170214-14-LR-Lecture in class, intro to scripting
+w01-170215-10-PS-Installing linux(ubuntu) via virtualBox, experiment
+w01-170215-10-PS-Installing linux(ubuntu) via virtualBox, experiment
 w01-170216-10-LR-read slide 02-scripting-01 and 02 and 03
 w01-170216-13-LR-Lecture in class, scripting, more advance , study for, if ,case ,while, grep, etc
 w01-170216-13-LR-Lecture in class, scripting, more advance , study for, if ,case ,while, grep, etc
