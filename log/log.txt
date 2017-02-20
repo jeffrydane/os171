@@ -1,2 +1,21 @@
+w00-170207-13-LR-Lecture in class, introduction
+w00-170207-13-LR-Lecture in class, introduction
+w00-170207-14-LR-Lecture in class, introduction
+w00-170209-13-LR-Lecture in class, there is demo about using terminal
+w00-170209-13-LR-Lecture in class, there is demo about using terminal
+w00-170209-14-LR-Lecture in class, there is demo about using terminal
+w00-170209-16-PS-Doing week00 task, make git account and login to badak@cs.ui.ac.id
 w00-170212-09-PS-Doing week01 task
 w00-170212-10-PS-Doing week01 task
+w00-170212-10-PS-Doing week01 task
+w01-170213-15-LR-read list of useful SSH commands, and study how to view user and chat via terminal at badak
+w01-170213-16-LR-same as above, and study element of a file that are displayed when you run the ls -alh command, somehow different from what was explained in class(?)
+w01-170214-13-LR-Lecture in class, intro to scripting
+w01-170214-13-LR-Lecture in class, intro to scripting
+w01-170214-14-LR-Lecture in class, intro to scripting
+w01-170215-10-PS-Installing linux(ubuntu) via virtualBox, experiment
+w01-170215-10-PS-Installing linux(ubuntu) via virtualBox, experiment
+w01-170216-10-LR-read slide 02-scripting-01 and 02 and 03
+w01-170216-13-LR-Lecture in class, scripting, more advance , study for, if ,case ,while, grep, etc
+w01-170216-13-LR-Lecture in class, scripting, more advance , study for, if ,case ,while, grep, etc
+w01-170216-14-LR-Lecture in class, scripting, more advance , study for, if ,case ,while, grep, etc
