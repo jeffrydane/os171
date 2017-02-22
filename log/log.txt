@@ -19,3 +19,10 @@ w01-170216-10-LR-read slide 02-scripting-01 and 02 and 03
 w01-170216-13-LR-Lecture in class, scripting, more advance , study for, if ,case ,while, grep, etc
 w01-170216-13-LR-Lecture in class, scripting, more advance , study for, if ,case ,while, grep, etc
 w01-170216-14-LR-Lecture in class, scripting, more advance , study for, if ,case ,while, grep, etc
+w02-170220-15-PS-Doing week02 task
+w02-170220-15-PS-Doing week02 task
+w02-170220-16-PS-Doing week02 task
+w02-170220-16-PS-Doing week02 task
+w02-170221-13-LR-Lecture in class about protection, virus, security
+w02-170221-13-LR-Lecture in class about protection, virus, security
+w02-170221-14-LR-Lecture in class about protection, virus, security
