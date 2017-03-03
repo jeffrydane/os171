@@ -31,3 +31,12 @@ w02-170223-07-LR-Study C language
 w02-170223-13-LR-Lecture in class about C language; loop for, loop while, if ,case, pointer
 w02-170223-13-LR-Lecture in class about C language; loop for, loop while, if ,case, pointer
 w02-170223-14-LR-Lecture in class about C language; loop for, loop while, if ,case, pointer
+w03-170228-13-LR-Lecture in class about booting
+w03-170228-13-LR-Lecture in class about booting
+w03-170228-14-LR-Lecture in class , there is pop-quiz
+w03-170302-10-PS-Do week03 1st question
+w03-170302-13-LR-Lecture in class about BOOTING 
+w03-170302-13-LR-Lecture in class about BOOTING
+w03-170302-14-LR-Lecture in class about BOOTING
+w03-170303-20-Do week03 task 2nd question
+w03-170303-20-Do week03 task 2nd question
