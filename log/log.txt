@@ -38,5 +38,21 @@ w03-170302-10-PS-Do week03 1st question
 w03-170302-13-LR-Lecture in class about BOOTING 
 w03-170302-13-LR-Lecture in class about BOOTING
 w03-170302-14-LR-Lecture in class about BOOTING
-w03-170303-20-Do week03 task 2nd question
-w03-170303-20-Do week03 task 2nd question
+w03-170303-20-PS-Do week03 task 2nd question
+w03-170303-20-PS-Do week03 task 2nd question
+w04-170307-13-LR-Lecture in class about Global, Local variable, open-close, I/O
+w04-170307-13-LR-Lecture in class about Global, Local variable, open-close, I/O
+w04-170307-14-LR-Lecture in class about Global, Local variable, open-close, I/O
+w04-170308-16-PS-Do week04 task
+w04-170308-16-PS-Do week04 task
+w04-170308-17-PS-Do week04 task
+w04-170308-17-PS-Do week04 task
+w04-170308-18-PS-Do week04 task
+w04-170308-18-PS-Do week04 task
+w04-170308-19-PS-Do week04 task
+w04-170308-19-PS-Do week04 task
+w04-170308-20-PS-Do week04 task
+w04-170308-20-PS-Do week04 task
+w04-170309-13-LR-Lecture in class, exercise C pointer
+w04-170309-13-LR-Lecture in class, exercise C pointer
+w04-170309-14-LR-Lecture in class, exercise C pointer
