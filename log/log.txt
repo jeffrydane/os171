@@ -56,3 +56,16 @@ w04-170308-20-PS-Do week04 task
 w04-170309-13-LR-Lecture in class, exercise C pointer
 w04-170309-13-LR-Lecture in class, exercise C pointer
 w04-170309-14-LR-Lecture in class, exercise C pointer
+w05-170314-09-PS-Do week05 task
+w05-170314-09-PS-Do week05 task
+w05-170314-10-PS-Do week05 task
+w05-170314-10-PS-Do week05 task
+w05-170314-11-PS-Do week05 task
+w05-170314-13-LR-Lecture in class, about: Memory, framentation, paging, physical memory, logical memory
+w05-170314-13-LR-Lecture in class, about: Memory, framentation, paging, physical memory, logical memory
+w05-170314-14-LR-Lecture in class, about: Memory, framentation, paging, physical memory, logical memory
+w05-170315-13-PS-Do week05 task
+w05-170315-13-PS-Do week05 task
+w05-170316-13-LR-Lecture in class, about: Effective Access Time, Memory protection, Page Table, Demand Paging(FIFO & LRU Algorithms)
+w05-170316-13-LR-Lecture in class, about: Effective Access Time, Memory protection, Page Table, Demand Paging(FIFO & LRU Algorithms)
+w05-170316-14-LR-Lecture in class, about: Effective Access Time, Memory protection, Page Table, Demand Paging(FIFO & LRU Algorithms)
