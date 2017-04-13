@@ -69,13 +69,28 @@ w05-170315-13-PS-Do week05 task
 w05-170316-13-LR-Lecture in class, about: Effective Access Time, Memory protection, Page Table, Demand Paging(FIFO & LRU Algorithms)
 w05-170316-13-LR-Lecture in class, about: Effective Access Time, Memory protection, Page Table, Demand Paging(FIFO & LRU Algorithms)
 w05-170316-14-LR-Lecture in class, about: Effective Access Time, Memory protection, Page Table, Demand Paging(FIFO & LRU Algorithms)
-w06-170321-13-LR-Lecture in class, about: exercise memory
-w06-170321-13-LR-Lecture in class, about: exercise memory
-w06-170321-14-LR-Lecture in class, about: exercise memory
-w06-170323-10-LR-Tutorial
-w06-170323-10-LR-Tutorial
-w06-170323-11-LR-Tutorial
-w06-170323-11-LR-Tutorial
-w06-170323-13-LR-Lecture in class, about: exercise memory
-w06-170323-13-LR-Lecture in class, about: exercise memory
-w06-170323-14-LR-Lecture in class, about: exercise memory
+  [gak diitung week06 (?)]
+  w06-170321-13-LR-Lecture in class, about: exercise memory
+  w06-170321-13-LR-Lecture in class, about: exercise memory
+  w06-170321-14-LR-Lecture in class, about: exercise memory
+  w06-170323-10-LR-Tutorial
+  w06-170323-10-LR-Tutorial
+  w06-170323-11-LR-Tutorial
+  w06-170323-11-LR-Tutorial
+  w06-170323-13-LR-Lecture in class, about: exercise memory
+  w06-170323-13-LR-Lecture in class, about: exercise memory
+  w06-170323-14-LR-Lecture in class, about: exercise memory
+  [gak diitung week06 (?)]  
+w06-170406-13-LR-Lecture in class, about thread, fork
+w06-170406-13-LR-Lecture in class, about thread, fork
+w06-170406-14-LR-Lecture in class, about thread, fork
+w06-170410-07-PS-Do week06 task
+w06-170410-08-PS-Do week06 task
+w06-170410-08-PS-Do week06 task
+w06-170410-16-PS-Do week06 task
+w06-170410-17-PS-Do week06 task
+w06-170410-17-PS-Do week06 task
+w06-170411-13-LR-Lecture in class, exercise from Mr Anwar about fork()
+w06-170411-13-LR-Lecture in class, exercise from Mr Anwar about fork()
+w06-170411-14-LR-Lecture in class, exercise from Mr Anwar about fork()
+w06-170413-09-PS-Finish week06 task
