@@ -94,3 +94,24 @@ w06-170411-13-LR-Lecture in class, exercise from Mr Anwar about fork()
 w06-170411-13-LR-Lecture in class, exercise from Mr Anwar about fork()
 w06-170411-14-LR-Lecture in class, exercise from Mr Anwar about fork()
 w06-170413-09-PS-Finish week06 task
+w07-170418-13-LR-Lecture in class, about thread, synchronization, lock
+w07-170418-13-LR-Lecture in class, about thread, synchronization, lock
+w07-170418-14-LR-Lecture in class, about thread, synchronization, lock
+w07-170420-13-LR-Lecture in class, exercise about sem_t (semaphore)
+w07-170420-13-LR-Lecture in class, exercise about sem_t (semaphore)
+w07-170420-14-LR-Lecture in class, exercise about sem_t (semaphore)
+w07-170420-18-PS-Do week07 task
+w07-170420-19-PS-Do week07 task
+w07-170420-19-PS-Do week07 task
+w07-170420-20-PS-Do week07 task
+w07-170420-20-PS-Do week07 task
+w07-170420-21-PS-Do week07 task
+w07-170420-21-PS-Do week07 task
+w07-170420-22-PS-Do week07 task
+w07-170420-22-PS-Do week07 task
+w07-170421-09-PS-Do week07 task
+w07-170421-09-PS-Do week07 task
+w07-170422-09-PS-Do week07 task
+w07-170422-09-PS-Do week07 task
+w07-170422-10-PS-Do week07 task
+w07-170422-10-PS-Do week07 task
