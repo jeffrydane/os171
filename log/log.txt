@@ -143,6 +143,6 @@ w09-170506-19-PS-Doing ulasan1
 w10-170509-11-PS-Doing ulasan2
 w10-170509-11-PS-Doing ulasan2
 w10-170509-12-PS-Doing ulasan2
-w10-170509-13-PS-Review quiz + exercise fork
-w10-170509-13-PS-Review quiz + exercise fork
-w10-170509-14-PS-Review quiz + exercise fork
+w10-170509-13-LR-Review quiz + exercise fork
+w10-170509-13-LR-Review quiz + exercise fork
+w10-170509-14-LR-Review quiz + exercise fork
